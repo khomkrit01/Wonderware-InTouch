@@ -1,2 +1,2 @@
 # Wonderware-InTouch
-# example suite, trip, develop guide
+# example suite, trip, develop guide.
